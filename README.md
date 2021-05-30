@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning advanced concepts of Nodejs , socketio,webrtc e.t.c
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me fidelishoca@gmail.com
+- you get visit my creative agency at www.dangoweb.com
+-you can also view my portfolio site at www.fidellis-portfolio1.netlify.app
 
- 
